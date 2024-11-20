@@ -1,0 +1,62 @@
+ .logo.img{
+    width: 55px;
+    height: 55px;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:gray;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+header.logo{
+    font-size: 24px;
+    font-weight: bold;
+
+}
+header nav ul li{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+header nav ul li{
+    color: white;
+    
+}
+ li{
+    text-decoration: none;
+}
+h1{
+    margin-left: 12cm;
+    color: purple;
+}
+footer{
+    background:green;
+    padding-top: 50px;
+}
+.containere{
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    width: 33,3%;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.footer-content{
+    width: 150px;
+    margin: auto;
+    padding: 7px;
+}
